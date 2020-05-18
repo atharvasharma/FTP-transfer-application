@@ -1,0 +1,3 @@
+Command used to check the file permissions: ls -l upload.txt, ls -l download.txt
+
+Permissions for the uploaded file in the faulty version: rwxrwx-w-
